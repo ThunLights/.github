@@ -14,16 +14,33 @@ Team ThunLights公式GitHubです。
 
 ## サービス一覧
 
+### OnionTLD専用検索エンジン (https://onion-search.net)
+
+> 国内最大級のOnionTLD専用検索エンジンです。
+>
+> 怒られたら消します。
+
 ### 掲示板 (https://liarchat.com)
 
-> 開発途中の掲示板です <br>
+> 開発途中の掲示板です
+> 
 > 詳細に関しては後々公式ページにて発表予定です。
 
 ### URL短縮サービス (https://jli.li)
 
-> Team ThunLights初のRustによるプロジェクトです。<br>
-> jli.liというドメインが安く入手できるという情報を嗅ぎつけたことが開発スタートの理由です。<br>
+> Team ThunLights初のRustによるプロジェクトです。
+> 
+> jli.liというドメインが安く入手できるという情報を嗅ぎつけたことが開発スタートの理由です。
+> 
 > まだ開発途中です。
+
+### 背景変更プラグイン ※VScode拡張機能
+
+<small>https://marketplace.visualstudio.com/items?itemName=ROBOTofficial.backimage</small>
+
+> 背景を特定の画像などに変更できるプラグインです。
+>
+> 自分の好きなアニメのイラストなどに変えてモチベを上げてください!!
 
 ## 開発言語
 
