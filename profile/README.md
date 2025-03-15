@@ -14,6 +14,12 @@ Team ThunLights公式GitHubです。
 
 ## サービス一覧
 
+### Verify.press (https://verify.press)
+
+> Discord認証ボットサービスです。
+>
+> Freeプランもありますので是非一度ご利用ください。
+
 ### Distopia (https://distopia.top)
 
 > 規制の緩いDiscord掲示板です。
@@ -27,12 +33,6 @@ Team ThunLights公式GitHubです。
 > 国内最大級のOnionTLD専用検索エンジンです。
 >
 > 怒られたら消します。
-
-### 掲示板 (https://liarchat.com)
-
-> 5chとDiscordとTwitterを合体させたような掲示板です。
-> 
-> ぶっちゃけ過疎です。
 
 ### URL短縮サービス (https://jli.li)
 
