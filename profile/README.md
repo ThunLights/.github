@@ -35,8 +35,8 @@ https://github.com/ro80t/url-shortener
 
 ### 背景変更プラグイン ※VScode拡張機能
 
+[ro80tの個人リポジトリ](https://github.com/ro80t/BackImage)へ移行済み。
+
 <small>https://marketplace.visualstudio.com/items?itemName=ROBOTofficial.backimage</small>
 
 > 背景を特定の画像などに変更できるプラグインです。
->
-> 自分の好きなアニメのイラストなどに変えてモチベを上げてください!!
