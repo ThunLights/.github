@@ -8,25 +8,21 @@
 
 ## サービス一覧
 
-### Verify.press (https://verify.press)
-
-> Discord認証ボットサービスです。
->
-> Freeプランもありますので是非一度ご利用ください。
-
 ### Distopia (https://distopia.top)
 
 > 規制の緩いDiscord掲示板です。
 >
 > あなたのDiscordサーバーにも良ければ導入しませんか？
 >
-> 導入方法は[こちら](https://distopia.top/help/register/special)
+> 導入方法は[こちら](https://distopia.top/help/register)
+
+### Verify.press (https://verify.press)
+
+Distopiaへ統合
 
 ### OnionTLD専用検索エンジン (https://onion-search.net)
 
-> 国内最大級のOnionTLD専用検索エンジンです。
->
-> 怒られたら消します。
+法的観点から閉鎖 (後継サイトはありません)
 
 ### URL短縮サービス (https://jli.li)
 
